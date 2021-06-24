@@ -10,6 +10,6 @@
 > 向haarcascades文件夹中添加OpenCV的级联器文件，主要是有关人脸检测相关的几个级联文件，.xml格式
 
 
-#### 使用
+### 使用
 1. 添加人脸，运行face_colletor.py
 2. 识别，运行 face_recognize.py
